@@ -1,0 +1,41 @@
+body {
+  background-color: #303841;
+  color: #f6e9e9;
+  font-family: "Candara";
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f6e9e9;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  border-radius: 10px;
+}
+
+/* unvisited link */
+a:link {
+  color: #d8b9c3;
+}
+
+/* visited link */
+a:visited {
+  color: #d8b9c3;
+}
+
+/* mouse over link */
+a:hover {
+  color: #3b6978;
+}
+
+/* selected link */
+a:active {
+  color: #4d4c7d;
+}
+
+h1, h3 {
+  color: #66BFBF;
+}
